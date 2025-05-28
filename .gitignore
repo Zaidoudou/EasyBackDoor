@@ -1,0 +1,11 @@
+#Project Artifacts
+bin/
+obj/
+
+#Logs
+*.log
+
+#Temp Files
+*.tmp
+
+#Backup Files
